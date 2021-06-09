@@ -10,7 +10,7 @@
 * [Biomarker Identification](#biomarker)
 * [Extra works related to machine learning](#ML)
 
-If you like to update the file by adding the unlisted open-source articles, feel free to open an issue or submit a pull requests. You can also directly contact Alaa Bessadok at alaa.bess@gmail.com. All contributions are very welcome! 
+If you like to update the file by adding the unlisted open-source articles, feel free to open an issue or submit a pull requests. You can also directly contact Alaa Bessadok at alaa.bessadok@gmail.com. All contributions are very welcome! 
 
 <a name="SingleMultiviewprediction" />
 
