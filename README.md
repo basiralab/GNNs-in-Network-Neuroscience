@@ -14,6 +14,11 @@ If you like to update the file by adding the unlisted open-source articles, feel
 
 <a name="SingleMultiviewprediction" />
 
+# arXiv link
+
+The full paper is downloadable at 
+https://arxiv.org/pdf/2106.03535.pdf
+
 ## Cross-domain graph prediction
 
 ### Single graph prediction
