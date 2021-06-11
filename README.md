@@ -5,7 +5,7 @@
 * [Predicting one or multiple modalities from a a single or different modalities (e.g., data synthesis)](#SingleMultiviewprediction)
 * [Predicting high-resolution data from low-resolution data](#resolution)
 * [Predicting the brain evolution trajectory](#timedependent)
-* [Multiple network inegration and fusion](#Integrationfusion)
+* [Multiple network integration and fusion](#Integrationfusion)
 * [Computer-aided prognostic methods (e.g., for brain diseases)](#diseaseclassification)
 * [Biomarker Identification](#biomarker)
 * [Extra works related to machine learning](#ML)
