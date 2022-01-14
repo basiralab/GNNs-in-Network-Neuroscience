@@ -1,13 +1,13 @@
 # Graph Neural Networks in Network Neuroscience
 
-> In Geometric Deep Learning (GDL), one of the most popular learning methods is the Graph Neural Network (GNN), which applies convolutional layers to learn the topological structure of the input graph. GNN has recently been used for the analysis of different types of the human connectome, such as structural, functional, and morphological networks derived respectively from Diffusion Tensor Imaging (DTI), functional magnetic resonance imaging (fMRI), and T1-w MRI data. Such a nascent field has achieved significant performance improvements over traditional deep neural networks in the early diagnosis of brain disorders. Thus, we list here all MICCAI papers of 4 years (2017-2020), some journals, and IPMI (2017-2019) papers that are embedded into multiple tasks related to the disease diagnosis:
+> In Geometric Deep Learning (GDL), one of the most popular learning methods is the Graph Neural Network (GNN), which applies convolutional layers to learn the topological structure of the input graph. GNNs have recently been used for the analysis of different types of the human connectome, such as structural, functional, and morphological networks derived respectively from Diffusion Tensor Imaging (DTI), functional magnetic resonance imaging (fMRI), and T1-w MRI data. Such a nascent field has achieved significant performance improvements over traditional deep neural networks in the early diagnosis of brain disorders. Thus, we list here all MICCAI papers of 4 years (2017-2020), some journals, and IPMI (2017-2019) papers focusing on different learning tasks:
 
-* [Predicting one or multiple modalities from a a single or different modalities (e.g., data synthesis)](#SingleMultiviewprediction)
+* [Predicting one or multiple modalities from a single or different modalities (e.g., data synthesis)](#SingleMultiviewprediction)
 * [Predicting high-resolution data from low-resolution data](#resolution)
 * [Predicting the brain evolution trajectory](#timedependent)
-* [Multiple network integration and fusion](#Integrationfusion)
+* [Population network integration and fusion](#Integrationfusion)
 * [Computer-aided prognostic methods (e.g., for brain diseases)](#diseaseclassification)
-* [Biomarker Identification](#biomarker)
+* [Biomarker identification](#biomarker)
 * [Extra works related to machine learning](#ML)
 
 If you like to update the file by adding the unlisted open-source articles, feel free to open an issue or submit a pull requests. You can also directly contact Alaa Bessadok at alaa.bessadok@gmail.com. All contributions are very welcome! 
