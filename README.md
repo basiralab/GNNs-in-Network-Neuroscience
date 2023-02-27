@@ -201,3 +201,14 @@ Deep learning for neuroimaging: a validation study =  https://www.frontiersin.or
 <!-- ## [Great for inspiration and for the writing] 
 Geometric Convolutional Neural Network for Analyzing Surface-Based Neuroimaging Data = https://www.frontiersin.org/articles/10.3389/fninf.2018.00042/full -->
 
+# Please cite the following paper when using our work:
+
+```latex
+@article{bessadok2022graph,
+  title={Graph neural networks in network neuroscience},
+  author={Bessadok, Alaa and Mahjoub, Mohamed Ali and Rekik, Islem},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
